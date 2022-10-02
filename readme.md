@@ -109,7 +109,7 @@ $ npm install --save-dev \
 ```
 
 * At Visual Studio Code, install and enable [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) extension
-<br />
+
 * Create **.eslintrc.json** file
 ```
 {
