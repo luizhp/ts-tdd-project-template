@@ -1,0 +1,9 @@
+.vscode
+node_modules
+dist
+coverage
+data
+!src/data
+!tests/data
+globalConfig.json
+
